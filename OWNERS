@@ -1,0 +1,10 @@
+# See the file documentation:
+#  https://github.com/nholuongut/external-dns
+
+approvers:
+  - nholuong
+reviewers:
+  - nholuong
+
+emeritus_approvers:
+  - nholuong
